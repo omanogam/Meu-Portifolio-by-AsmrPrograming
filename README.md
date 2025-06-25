@@ -4,7 +4,7 @@ Este é meu portfólio pessoal como desenvolvedor web, onde compartilho um pouco
 
 🚀 Tecnologias usadas
 
-- HTML5  
-- CSS3  
+- HTML 
+- CSS  
 - JavaScript  
-- Particles.js  
+
